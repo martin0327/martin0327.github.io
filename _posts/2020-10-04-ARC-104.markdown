@@ -1,10 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-03 11:55:32 +0900
+title:  "AtCoder Regular Contest 104"
+date:   2020-10-04 09:08:32 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+[AtCoder Regular Contest 104](https://atcoder.jp/contests/arc104)
+
+My first participation at AtCoder!
+
+Solved only [A](https://atcoder.jp/contests/arc104/submissions/17157542) 
+and [B](https://atcoder.jp/contests/arc104/submissions/17164376).
+
+Ranked [2705 out of 5605.](https://atcoder.jp/users/martin0327/history/share/arc104) 
+
+[C](https://atcoder.jp/contests/arc104/tasks/arc104_c) turned out to be a dp problem.
+
+Will update when solved.
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -26,4 +40,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
