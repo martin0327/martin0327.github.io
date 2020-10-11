@@ -19,7 +19,5 @@ Ranked [1729 out of 6097.](https://atcoder.jp/users/martin0327/history/share/hhk
 
 [E](https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_e) is also a combinatorics problem solved in O(HW) time: [solution](https://atcoder.jp/contests/hhkb2020/submissions/17331847)
 
-Will update when solved.
-
 <!-- to render in localhost:
 bundle exec jekyll serve -->
