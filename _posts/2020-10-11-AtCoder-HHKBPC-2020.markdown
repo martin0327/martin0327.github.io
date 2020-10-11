@@ -15,9 +15,9 @@ Solved [A](https://atcoder.jp/contests/hhkb2020/submissions/17289806),
 
 Ranked [1729 out of 6097.](https://atcoder.jp/users/martin0327/history/share/hhkb2020)
 
-[D](https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_d) turned out to be a O(1) combinatorics problem.
+[D](https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_d) turned out to be a O(1) combinatorics problem: [solution](https://atcoder.jp/contests/hhkb2020/submissions/17332193)
 
-[E](https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_e) is also a combinatorics problem solved in O(HW) time.
+[E](https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_e) is also a combinatorics problem solved in O(HW) time: [solution](https://atcoder.jp/contests/hhkb2020/submissions/17331847)
 
 Will update when solved.
 
