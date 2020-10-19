@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "AtCoder Regular Contest 105"
+date:   2020-10-12
+categories: jekyll update
+---
+
+[AtCoder Regular Contest 104](https://atcoder.jp/contests/arc105)
+
+Solved only [A](https://atcoder.jp/contests/arc105/submissions/17338197) 
+and [B](https://atcoder.jp/contests/arc105/submissions/17338197).
+
+Ranked [1176 out of 3806.](https://atcoder.jp/users/martin0327/history/share/arc105) 
+
+It seems that [C](https://atcoder.jp/contests/arc105/tasks/arc105_c) can be solved prefix max and binary search.
+
+Will update when solved.
+
+
+<!-- to render in localhost:
+bundle exec jekyll serve -->
