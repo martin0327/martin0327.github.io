@@ -5,7 +5,7 @@ date:   2020-10-12
 categories: jekyll update
 ---
 
-[AtCoder Regular Contest 104](https://atcoder.jp/contests/arc105)
+[AtCoder Regular Contest 105](https://atcoder.jp/contests/arc105)
 
 Solved only [A](https://atcoder.jp/contests/arc105/submissions/17338197) 
 and [B](https://atcoder.jp/contests/arc105/submissions/17338197).
